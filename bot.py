@@ -34,7 +34,7 @@ def run_flask():
     app.run(host='0.0.0.0', port=port)
 
 
-BOT_TOKEN = "8433549749:AAHNY1IDbyRiVkav6F3TmAAAm0kN3Vmkm6Q"
+BOT_TOKEN = "8548678485:AAGqzI-DbUPOhbwYd_jZ2e6en4Ifnnqx4PI"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Дата начала весеннего семестра 2025-2026
@@ -1379,3 +1379,4 @@ if __name__ == "__main__":
 
 
     print("🏁 Все системы успешно запущены!")
+
